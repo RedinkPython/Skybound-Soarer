@@ -1,3 +1,4 @@
+// This is no AI, this is an game maker studio template
 // This function checks if the instance is colliding with an object, or a tile, at the current
 // position + the given movement values (_move_x and _move_y).
 // The function returns true if a collision was found, or false if a collision was not found.
